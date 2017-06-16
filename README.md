@@ -2,14 +2,23 @@
 
 ## Styles
 
-### Arrows
-
-#### Styles
+### Angle/Chevron
 
 * Angle/Chevron
 * Double Angle/Chevron
 * Angle/Chevron Circle
 * Double Angle/Chevron Circle
+* Angle/Chevron Short
+* Double Angle/Chevron Short
+* Angle/Chevron Short Circle
+* Double Angle/Chevron Short Circle
+* Angle/Chevron Long
+* Double Angle/Chevron Long
+* Angle/Chevron Long Circle
+* Double Angle/Chevron Long Circle
+
+### Arrows
+
 * Arrow
 * Arrow Circle
 * Arrow Short
@@ -17,14 +26,14 @@
 * Arrow Long
 * Arrow Long Circle
 
-#### Directions
+### Directions
 
 * Up
 * Right
 * Down
 * Left
 
-#### Sizes
+### Sizes
 
 * 8px
 * 16px
