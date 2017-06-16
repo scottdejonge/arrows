@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-  <g fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1" transform="translate(1 .5)" stroke-linecap="square">
-    <path d="M0.5,7.5 L12.5,7.5"/>
-    <path d="M13.5,7.5 L6.5,14.5"/>
-    <path d="M13.5,7.5 L6.98079759,0.980797595"/>
-  </g>
-</svg>
